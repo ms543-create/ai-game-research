@@ -17,6 +17,21 @@ Initial references reviewed November 10, 2026. Documentation changes; capture th
 | Generated 3D | [Meshy](https://docs.meshy.ai/en) | Generation and asset export candidate |
 | 3D cleanup | [Blender glTF](https://docs.blender.org/manual/en/latest/addons/import_export/scene_gltf2.html) | Model inspection and export pipeline |
 
+## Additional research references
+
+Reviewed November 10, 2026. Tool availability, preview status, and host support should be rechecked at the time of an experiment.
+
+- [REA repository at reviewed commit](https://github.com/morluto/rea/tree/e2585aa7ce31c37866ca46991ec656fdffaa3b90)
+- [REA DX-Ball case study](https://rea.tools/showcase/dx-ball/)
+- [REA TH04 case study](https://rea.tools/showcase/th04/)
+- [Blender Lab MCP server](https://www.blender.org/lab/mcp-server/)
+- [AutoCAD AI feature list](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/What-are-the-AutoCAD-AI-driven-features.html)
+- [Autodesk AI transparency cards](https://www.autodesk.com/trust/trusted-ai/ai-transparency-cards)
+- [Fusion Generative Design overview](https://help.autodesk.com/view/fusion360/ENU/?contextId=GD-OVERVIEW)
+- [Maya MotionMaker QuickStart](https://help.autodesk.com/cloudhelp/2026/ENU/Maya-MotionMaker/files/GUID-473B9D09-124C-4A5C-94F8-F3B4B89FAB18.html)
+- [Autodesk Wonder 3D introduction](https://www.youtube.com/watch?v=oDVq8WpD6-g)
+- [Tripo image-to-3D workflow](https://www.tripo3d.ai/product-doc/model-generation/image-to-3d)
+
 ## Asset provenance record
 
 Create one record for each asset selected for the game.

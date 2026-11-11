@@ -13,6 +13,7 @@ export default defineConfig({
     nav: [
       { text: 'Start here', link: '/overview' },
       { text: 'Technology tracks', link: '/engines' },
+      { text: 'REA', link: '/rea' },
       { text: 'Experiments', link: '/experiments' },
       { text: 'Research log', link: '/research-log' }
     ],
@@ -25,8 +26,10 @@ export default defineConfig({
       { text: 'Technology tracks', items: [
         { text: 'Game engines and the web', link: '/engines' },
         { text: 'AI programming', link: '/programming' },
+        { text: 'REA and game systems', link: '/rea' },
         { text: 'Audio and music', link: '/audio' },
         { text: '3D models and animation', link: '/models' },
+        { text: 'AI and 3D research plan', link: '/ai-3d-research' },
         { text: 'Art and interface', link: '/art' }
       ] },
       { text: 'Evidence', items: [

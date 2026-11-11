@@ -39,7 +39,13 @@ features:
 ---
 
 <div class="lab-notes">
-<div class="lab-status"><span>Research setup</span><span>5 technology tracks</span><span>6 proposed experiments</span></div>
+<div class="lab-status"><span>Research setup</span><span>REA investigation guide</span><span>8 proposed experiments</span></div>
+
+## New research
+
+[REA and how games are made](/rea) connects observed mechanics to input, state, math, audio, and rendering. Try the original interactive examples for spatial sound and repeated patterns.
+
+[AI and 3D research plan](/ai-3d-research) compares Blender automation, CAD assistance, generated assets, and animation through a shared practical study.
 
 ## The next step is a small, testable game slice
 

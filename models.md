@@ -4,6 +4,8 @@ A generated object is useful when it imports cleanly, renders correctly, and fit
 
 ## Candidate pipeline
 
+For the broader comparison of Blender, AutoCAD, Fusion, Maya, and generated assets, start with the [AI and 3D research plan](./ai-3d-research.md). It defines a common prop brief and separates generation, tool operation, CAD, and animation.
+
 1. Write a visual brief and preserve any reference image and its permissions.
 2. Generate a small prop using a candidate service such as [Meshy](https://docs.meshy.ai/en).
 3. Inspect and clean the result in [Blender](https://docs.blender.org/manual/en/latest/).

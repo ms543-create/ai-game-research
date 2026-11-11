@@ -4,6 +4,8 @@ The question is whether an AI coding workflow can deliver reliable game features
 
 ## Tasks to compare
 
+The [REA research page](./rea.md) explores the complementary task of understanding existing game systems through analysis evidence, before designing an original change.
+
 | Task | Example | Acceptance evidence |
 | --- | --- | --- |
 | Implement a feature | Add a daily challenge with a reproducible puzzle seed | Same seed yields the same puzzle; every answer is present |
