@@ -1,0 +1,36 @@
+:root {
+  --vp-c-brand-1: #486452;
+  --vp-c-brand-2: #587d64;
+  --vp-c-brand-3: #365740;
+  --vp-c-brand-soft: rgba(72, 100, 82, .12);
+  --vp-font-family-base: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --vp-home-hero-name-color: #486452;
+  --vp-home-hero-name-background: none;
+  --vp-home-hero-image-background-image: linear-gradient(135deg,#b7d6ac88,#b5b6df55);
+  --vp-home-hero-image-filter: blur(65px);
+}
+.dark {
+  --vp-c-bg: #141820;
+  --vp-c-bg-alt: #10141b;
+  --vp-c-bg-soft: #1c232e;
+  --vp-c-brand-1: #b8d4a6;
+  --vp-c-brand-2: #97bd86;
+  --vp-c-brand-3: #547d42;
+  --vp-c-brand-soft: rgba(184, 212, 166, .12);
+  --vp-home-hero-name-color: #b8d4a6;
+}
+.VPHomeHero .name { font-size: 18px!important; letter-spacing: .15em; text-transform: uppercase; line-height: 2!important; }
+.VPHomeHero .text { font-size: clamp(40px,5vw,66px)!important; line-height:1.07!important; letter-spacing:-.045em; max-width:780px; }
+.VPHomeHero .tagline { max-width:650px; font-size:20px!important; line-height:1.6!important; margin-top:20px; }
+.VPHomeHero { padding-top:80px!important; padding-bottom:52px!important; }
+.VPHomeFeatures .box { border-radius:12px; padding:26px; }
+.VPHomeFeatures .title { font-size:17px; }
+.VPHomeFeatures .details { line-height:1.8; }
+.lab-notes { max-width:1152px; margin:48px auto 80px; padding:0 24px; }
+.lab-notes h2 { font-size:25px; font-weight:650; letter-spacing:-.03em; margin-bottom:16px; }
+.lab-notes p { line-height:1.8; color:var(--vp-c-text-2); max-width:750px; }
+.lab-status { display:flex;gap:10px;flex-wrap:wrap;margin-bottom:20px; }
+.lab-status span { background:var(--vp-c-bg-soft);border:1px solid var(--vp-c-divider);padding:7px 12px;border-radius:20px;font-size:12px; }
+.lab-notes a {color:var(--vp-c-brand-1);font-weight:600;text-decoration:underline;text-underline-offset:4px;}
+.vp-doc table { display:table;width:100%;font-size:14px; }
+@media(max-width:640px) { .VPHomeHero {padding-top:48px!important;} .VPHomeHero .tagline {font-size:17px!important;} .lab-notes {padding:0 24px;} .vp-doc table {display:block;} }
